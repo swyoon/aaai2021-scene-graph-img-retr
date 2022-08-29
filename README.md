@@ -18,3 +18,10 @@ This repository contains the resources released by [Image-to-Image Retrieval by 
 
 
 We will upload the prediction results from our models and baselines as well as a code for computing agreement between algorithms and human annotations.
+
+
+-----
+
+The codebase for reproducing the original experiment is not available, because of its dependency to scene graph generation code which is proprietary to Kakao Brain. However, I made the rest of the codebase public. This codebase is not runnable, due to the missing parts, but may help you figure out what is going on in the code.
+
+https://github.com/swyoon/image-retrieval
